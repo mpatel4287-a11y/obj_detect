@@ -1,0 +1,14 @@
+# YOLO Object Tracker - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+pyserial>=3.5
+
+# YOLOv8 (Ultralytics) - Recommended for best performance
+ultralytics>=8.0.0
+
+# Optional: ONNX Runtime for faster inference
+# onnxruntime>=1.15.0
+

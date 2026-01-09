@@ -1,0 +1,16 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Models (VERY IMPORTANT)
+*.pt
+*.onnx
+
+# Environment
+.env
+
+# Build
+build/
+dist/
